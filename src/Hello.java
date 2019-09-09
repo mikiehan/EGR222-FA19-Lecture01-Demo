@@ -12,13 +12,13 @@ public class Hello {
 //        Person p2 = new Person(); //we created p2 object
 //
 //        p1.introduceOneself();
-////        p1.name = "Trinity";
-////        p1.age = 18;
-////        p2.name = "Jacob";
-////        p2.age = 30;
-////
-////        p1.introduceOneself();
-////        p2.introduceOneself();
+//        p1.name = "Trinity";
+//        p1.age = 18;
+//        p2.name = "Jacob";
+//        p2.age = 30;
+//
+//        p1.introduceOneself();
+//        p2.introduceOneself();
 
     }
 }
