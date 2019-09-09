@@ -2,6 +2,7 @@ public class Person {
     //data: field (member variables in C++)
     public String name;
     public int age;
+    public static boolean dignity = true;
 
     public Person(){
         System.out.println("just to make sure this is called");
